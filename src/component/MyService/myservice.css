@@ -1,0 +1,55 @@
+.myservice {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 2rem 0;
+}
+.myservice__title {
+  text-align: center;
+}
+.myservice h2 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 130%;
+}
+.myservice p {
+  font-size: 1rem;
+  line-height: 160%;
+}
+
+.myservice__container {
+  background: linear-gradient(#f7f7f7d0 0%, #eaeaea);
+  border-radius: 10px;
+  padding: 40px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.myservice__container:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (max-width:1310px) {
+
+    .myservice__title h1 {
+      font-size: 3rem;
+    }
+
+}
+
+@media screen and (max-width:910px) {
+ 
+  .myservice {
+    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+  }
+
+  .myservice p {
+    font-size: 14px;
+  }
+  .myservice h2 {
+    font-size: 1.4rem;
+  }
+}

@@ -1,0 +1,21 @@
+         
+         .cta {
+          background-image: linear-gradient(to right, #2b762f 0%, #607643  51%, #3c762b  100%);
+          padding: 0.5rem 1rem;
+          text-align: center;
+          transition: 0.5s;
+          background-size: 200% auto;
+          color: white;            
+          box-shadow: 0 0 10px var(--color-bg);
+          border-radius: 10px;
+          display: inline-block;
+        }
+
+        .cta:hover {
+          box-shadow: 0px 4px 5px #000;
+          transform: scale(1.01);
+          background-position: right center;
+          color: #fff;
+          text-decoration: none;
+        }
+       
