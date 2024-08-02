@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-app-cactus/static/css/main.16c67814.css",
+    "main.js": "/my-app-cactus/static/js/main.051bdd9a.js",
+    "static/media/Logocactus.png": "/my-app-cactus/static/media/Logocactus.19fed2244961415137d5.png",
+    "static/media/home-cactus.png": "/my-app-cactus/static/media/home-cactus.136f4040a6dd2e1ad9ab.png",
+    "static/media/shopcactus6.png": "/my-app-cactus/static/media/shopcactus6.3442f46105b80774e5dc.png",
+    "static/media/aboutme-cactus.png": "/my-app-cactus/static/media/aboutme-cactus.4195c8ed96bf3f4b3293.png",
+    "static/media/new-cactus-3.png": "/my-app-cactus/static/media/new-cactus-3.7f0c0329fd4122ed042d.png",
+    "static/media/new-cactus-1.png": "/my-app-cactus/static/media/new-cactus-1.24669c3036a9ad3ace85.png",
+    "static/media/shopcactus1.png": "/my-app-cactus/static/media/shopcactus1.0f9c498d6bd727a24284.png",
+    "static/media/shopcactus3.png": "/my-app-cactus/static/media/shopcactus3.570c0af6ba759656125c.png",
+    "static/media/shopcactus4.png": "/my-app-cactus/static/media/shopcactus4.e930172bc1f28f7cc387.png",
+    "static/media/new-cactus-2.png": "/my-app-cactus/static/media/new-cactus-2.7cf1600e9e0a98dfebb5.png",
+    "static/media/shopcactus2.png": "/my-app-cactus/static/media/shopcactus2.fce2dcaf0ea9b52d5ebe.png",
+    "static/media/shopcactus5.png": "/my-app-cactus/static/media/shopcactus5.939b3d6f71724c83e9a5.png",
+    "index.html": "/my-app-cactus/index.html",
+    "main.16c67814.css.map": "/my-app-cactus/static/css/main.16c67814.css.map",
+    "main.051bdd9a.js.map": "/my-app-cactus/static/js/main.051bdd9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c67814.css",
+    "static/js/main.051bdd9a.js"
+  ]
+}
