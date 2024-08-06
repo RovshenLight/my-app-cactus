@@ -1,7 +1,7 @@
 ( https://rovshenlight.github.io/my-app-cactus/ ) <- For Users.
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://images.app.goo.gl/dh8DK1T7d5y6DAf29" align="center" style="width: 100%" />
 </div>  
   
 
